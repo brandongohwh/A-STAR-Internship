@@ -1,0 +1,11 @@
+
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.gz(busy)
+*.toc
+*.pygtex
+*.pygstyle
+*.gz
